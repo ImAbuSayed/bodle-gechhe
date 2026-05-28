@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bodle-gechhe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Bodle Gechhe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bodle-gechhe/) |
+| **Get License** | [Secure Licensing Rights for Bodle Gechhe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bodle-gechhe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c2d596a4e489b035fb9685eef37af7ffef64fb8cc43193596f2f9ee40b9a2df6` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bodle Gechhe
+
+This log tracks the cryptographic history and versioning for the song **Bodle Gechhe** (bodle-gechhe).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T14:44:31.443543 | `v1` | `c2d596a4e489b035fb9685eef37af7ffef64fb8cc43193596f2f9ee40b9a2df6` | `d10ef9d21d48f55eec86b9680faaa1594c379a335c86b5987d9e9da4337d00e6` | `2026-05-28_bodle-gechhe-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
